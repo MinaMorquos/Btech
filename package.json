@@ -1,0 +1,26 @@
+{
+  "name": "mina's-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node scripts/run-tests.ts",
+    "allTests": "ts-node scripts/run-all-tests.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.9.0",
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^20.14.10",
+    "@types/oracledb": "^6.5.3",
+    "multiple-cucumber-html-reporter": "^3.10.0",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "cucumber-tsflow": "^4.4.4",
+    "oracledb": "^6.7.1",
+    "path": "^0.12.7"
+  }
+}

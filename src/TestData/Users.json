@@ -1,0 +1,9 @@
+{
+  "QA": {
+    "url": "https://btech.com/en",
+    "DummyUser": {
+      "username": "Test",
+      "password": "12345"
+    }
+  }
+}

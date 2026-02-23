@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run/Debug config" type="NodeJSConfigurationType" application-parameters="src/Features --tags &quot;@testcasekey=SPMLK-715&quot;" path-to-js-file="node_modules/@cucumber/cucumber/bin/cucumber-js " working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
