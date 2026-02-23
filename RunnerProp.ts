@@ -5,7 +5,7 @@ class RunnerProp  {
     static readonly DefaultTimeout: number = Number(process.env.DEFAULT_TIMEOUT) || 62000;
     static readonly DefaultStepTimeout: number = Number(process.env.DEFAULT_STEP_TIMEOUT) || 81000;
     static readonly DefaultNavigationTimeout: number = Number(process.env.DEFAULT_NAVIGATION_TIMEOUT) || 62000;
-    static readonly tags: string = process.env.TAGS ?? "testcasekey=SP-test";
+    static readonly tags: string = process.env.TAGS ?? "AddToCart";
     static readonly retry: number = Number(process.env.RETRY) || 1;
     static readonly parallelThreads: number  = 1;
     static readonly sequentiallyThreads: number  = 1;

@@ -1,6 +1,6 @@
 Feature: B.tech Assignment
 
-  @testcasekey=SP-test
+  @AddToCart
   Scenario Outline: Add Iphone 16
     Given Navigate to B.tech System in "<language>"
     When User Searches for "searchItem" from "<jsonObject>"
