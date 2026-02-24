@@ -245,6 +245,4 @@ The RunnerProp class is responsible for managing runtime configuration using env
 
 Please follow naming conventions and maintain modularity. Submit PRs with appropriate tags and documentation.
 
-## 📄 License
 
-[MIT](./LICENSE)
